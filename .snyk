@@ -1,0 +1,38 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - babel-cli > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > lodash
+    - babel-cli > babel-core > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > babel-core > lodash
+    - babel-cli > babel-register > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > babel-register > lodash
+    - babel-cli > babel-core > babel-types > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > babel-core > babel-types > lodash
+    - babel-cli > babel-core > babel-generator > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > babel-core > babel-generator > lodash
+    - babel-cli > babel-core > babel-traverse > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > babel-core > babel-traverse > lodash
+    - babel-cli > babel-core > babel-template > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-cli > babel-core > babel-template > lodash
+    - pug > pug-code-gen > constantinople > babel-types > lodash:
+        patched: '2026-06-19T17:17:28.380Z'
+        id: SNYK-JS-LODASH-567746
+        path: pug > pug-code-gen > constantinople > babel-types > lodash
