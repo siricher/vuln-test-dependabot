@@ -99,7 +99,7 @@
     "highlight.js": "9.18.1",
     "prismjs": "1.21.0",
     "showdown": "1.9.0",
-    "markdown-it": "8.4.2",
+    "markdown-it": "14.2.0",
     "js-yaml": "3.13.0",
     "flat": "4.1.0",
     "set-value": "3.0.1",
