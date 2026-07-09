@@ -19,7 +19,7 @@
     "node-fetch": "2.6.0",
     "underscore": "1.8.3",
     "bl": "1.2.2",
-    "decompress": "4.2.0",
+    "decompress": "4.2.1",
     "tar": "4.4.8",
     "ajv": "5.5.2",
     "helmet": "3.15.0",
