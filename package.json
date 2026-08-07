@@ -171,7 +171,7 @@
     "phantomjs-prebuilt": "2.1.16",
     "selenium-webdriver": "3.6.0",
     "chromedriver": "2.46.0",
-    "electron": "5.0.0",
+    "electron": "39.8.10",
     "nw": "0.35.0"
   }
 }
