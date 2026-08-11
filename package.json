@@ -38,7 +38,7 @@
     "y18n": "4.0.0",
     "elliptic": "6.5.3",
     "ua-parser-js": "0.7.28",
-    "nanoid": "2.1.11",
+    "nanoid": "3.3.17",
     "follow-redirects": "1.14.7",
     "node-forge": "0.10.0",
     "async": "2.6.3",
